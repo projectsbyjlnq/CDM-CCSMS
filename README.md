@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <h1>Colegio de Montalban<p> Centralized Campus Smart Map System</h1>
+  <h1>COLEGIO DE MONTALBAN<p> Centralized Campus Smart Map System</h1>
   </div>
   
 <img src="https://github.com/jlnqvisuals/CDM-CCSMS/blob/main/LOGIN%20DASHBOARD%20S2).png?raw=true">
